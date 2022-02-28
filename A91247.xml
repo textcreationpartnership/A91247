@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Practicall lavv, controlling and countermanding the common law: and the sword of vvarre the sword of iustice. Against all the late declarations and publications of the army, that they fight for the peoples liberties and lawes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91247</idno>
+            <idno type="STC">Wing P4039B</idno>
+            <idno type="STC">Thomason E435_36</idno>
+            <idno type="STC">ESTC R15564</idno>
+            <idno type="EEBO-CITATION">99859886</idno>
+            <idno type="PROQUEST">99859886</idno>
+            <idno type="VID">161597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161597)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Practicall lavv, controlling and countermanding the common law: and the sword of vvarre the sword of iustice. Against all the late declarations and publications of the army, that they fight for the peoples liberties and lawes.</title>
+                  <author>Anthony, Edward, 17th cent, attributed name.</author>
+                  <author>Prynne, William, 1600-1669, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Exeter :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne and to Edward Anthony.</note>
+                  <note>Annotation on Thomason copy: "Aprill 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Martial law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161597:1" rendition="simple:additions"/>
+            <p>PRACTICALL LAW,
+Controlling and countermanding
+The Common Law: AND
+The Sword of VVarre the Sword
+of Iuſtice.</p>
+            <p>Againſt all the late Declarations and
+publications of the Army, That they fight
+for the Peoples Liberties and Lawes.</p>
+            <p>Printed at Exeter 1648.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:161597:2"/>
+            <head>The Preface.</head>
+            <p>THe ſtrange and unparallel'd inſolency of the Generall and
+Councell of Warre, in preſuming to grant Injunctions to
+ſtay Suits and proceedings at Common Law, againſt Malignant
+Cavaliers, who have plundered them of all their eſtates, under
+pretext of Exeter Articles, &amp;c. which they preſume extend to all
+Malignant Conſtables, and others who have plundered and im<g ref="char:EOLhyphen"/>priſoned
+the Parliaments beſt friends by their commands, though
+not within the minds nor intent of the Articles, and to enjoyne
+them to come before the Councell of Warre, 200. or 300. miles
+to ſhew cauſe why they ſhould not ſurceaſe their Actions againſt
+theſe plunderers, and releaſe their juſt judgement againſt them,
+and preſuming to evince the Judges, Attourneyes, and others,
+not to proceed in ſuch trialls: a more higher and tyrannicall
+power then ever the Councell-Table exhauſted, ſo that all the
+Kingdome muſt now be ruled, and the Common-Law of the
+Land it ſelfe over-ruled and ſtaid by the Marſhall Law, to the
+undoing of the Parliaments beſt friends, and rejoycing of Ma<g ref="char:EOLhyphen"/>lignants,
+who enjoy their plunder and eſtates without recom<g ref="char:EOLhyphen"/>pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:161597:2"/>
+            <head>Practical Law controlling and coun<g ref="char:EOLhyphen"/>termanding
+the Common-Law, and
+the Sword of Warre the Sword of
+JUSTICE.</head>
+            <div type="letter">
+               <p>WHereas Sir <hi>Richard Vyvyan</hi> of <hi>Treſewarren</hi> in
+the County of <hi>Cornwall</hi> Knight and Baro<g ref="char:EOLhyphen"/>net,
+hath petitioned his Excellency <hi>Sir Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi>
+that <hi>Edward Anthony</hi> of the City of <hi>Exeter</hi>
+Goldſmith, hath ſued and impleaded him the ſaid
+<hi>Sir Richard Vyvyan,</hi> contrary to the <hi>Articles of the
+ſaid City of Exeter,</hi> within which the ſaid <hi>Sir Ri<g ref="char:EOLhyphen"/>chard
+Vyvyan</hi> is comprized: the <hi>Generall</hi> to the end
+he might be ſatisfied of the truth of the particulars
+of the ſaid Petition, referred the ſame to the Exami<g ref="char:EOLhyphen"/>nation
+of the <hi>Officers of his Army,</hi> who at a pub<g ref="char:EOLhyphen"/>like
+meeting, and upon a full Examination, found e<g ref="char:EOLhyphen"/>very
+particular in the ſaid Commiſſion to bee very
+clearly and punctually proved to be true, that <hi>Sir
+Richard Vyvyan</hi> was Maſter of His <hi>Majeſties Mint</hi>
+in the City of <hi>Exeter</hi> by Commiſſion of his <hi>Maje<g ref="char:EOLhyphen"/>ſty,</hi>
+that he is comprized within the ſaid Articles of
+<hi>Exon,</hi> and by which he is to be indempnified for
+matters relating to the late differences between his
+<hi>Majeſty</hi> and the <hi>Parliament,</hi> and that the ſaid <hi>Edward
+Anthony</hi> hath ſued and impleaded him the ſaid Sir
+<hi>Richard Vyvyan</hi> for<note n="a" place="margin">Plunde<g ref="char:EOLhyphen"/>red from him to his undo<g ref="char:EOLhyphen"/>ing, being a <hi>Gold-ſmith.</hi>
+                  </note> 
+                  <hi>Plate</hi> ſent unto the ſaid <hi>Mint</hi>
+for his <hi>Majeſties</hi> uſe by Sir <hi>John Berkly</hi> Knight, then
+Governour of the ſaid <hi>City</hi> of <hi>Exeter,</hi> and hath re<g ref="char:EOLhyphen"/>covered
+<pb n="2" facs="tcp:161597:3"/>
+by <hi>Verdict againſt him</hi> the ſaid Sir <hi>Richard
+Vyvyan, two hundred ninety one pound three ſhillings
+damages, beſides coſts.</hi> Now foraſmuch as they the
+ſaid <hi>Officers</hi> have thereupon certified the <hi>Generall</hi>
+the premiſſes to be true, and that the ſaid <hi>Action and
+Verdict and all proceedings thereon are againſt the Arti<g ref="char:EOLhyphen"/>cles
+of Exeter,</hi> and therefore are of opinion, and de<g ref="char:EOLhyphen"/>ſire
+the <hi>General</hi> to command the<note n="b" place="margin">By what Law or Com<g ref="char:EOLhyphen"/>miſsion can a<g ref="char:EOLhyphen"/>ny ſuch Order be granted by the Generall or Advocate.</note> 
+                  <hi>Iudge Advocate</hi> to
+take care that the ſaid <hi>Edward Anthony</hi> do <hi>forthwith
+reveale,</hi> or <hi>otherwaies</hi>
+                  <note n="c" place="margin">O happy Malignants that can find ſuch Patro<g ref="char:EOLhyphen"/>nage! O un<g ref="char:EOLhyphen"/>happy Parlia<g ref="char:EOLhyphen"/>ment friends and ſufferers who muſt bee thus enforced even after Iudgment and Verdict to loſe both their coſts &amp; dama<g ref="char:EOLhyphen"/>ges juſtly re<g ref="char:EOLhyphen"/>covered a<g ref="char:EOLhyphen"/>gainſt Cava<g ref="char:EOLhyphen"/>liers &amp; Plun<g ref="char:EOLhyphen"/>derers, and thus toſſed up and downe to their utter undoing againſt the expreſſe Letter of the Co<g ref="char:EOLhyphen"/>venant, &amp; many Declarations of both Houſes to repair loſſes, &amp; right them out of Malignants eſtates!</note> 
+                  <hi>diſcharge him the ſaid Sir Ri<g ref="char:EOLhyphen"/>chard
+Vyvyan of and from the ſaid Action, Verdict and
+all proceedings thereon,</hi> or in <hi>default thereof to appear
+at the Head Quarters to ſhew a good cauſe to the contra<g ref="char:EOLhyphen"/>ry,
+and that all further proceeding be ſta<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in the meane
+while by the ſaid Edward Anthony</hi> and his <hi>Attourneys;</hi>
+Theſe are therefore to deſire and require the ſame
+<hi>Edward Anthony</hi> immediately <hi>upon ſight hereof to re<g ref="char:EOLhyphen"/>leaſe
+and diſcharge the ſame Sir Richard Vyvyan of and
+from the ſaid Action and Verdict of 291. l. 3. s. damages
+and coſts of Suit, and all proceedings thereon, or other<g ref="char:EOLhyphen"/>wiſe
+appeare at the Head-Quarters on Munday the 6. day
+of March next coming, by nine of the clock in the fore<g ref="char:EOLhyphen"/>noon,
+to ſhew good cauſe to the contrary, and all Attour<g ref="char:EOLhyphen"/>neyes
+and Solicitours are to take notice hereof, that there
+be no further proceedings in the ſaid Suit in the meane
+while, or to ſhew cauſe to the contrarie: Whereof they and
+<pb n="3" facs="tcp:161597:3"/>
+every of them are not faile. Dated at</hi>
+                  <note n="d" place="bottom">Where there is now a new <hi>Coun<g ref="char:EOLhyphen"/>cell Table</hi> erected (it ſeems) far more extravagant then ever the King had any.</note> 
+                  <hi>White-hall</hi>
+this 19. of Febr. 1647.</p>
+               <closer>
+                  <signed>Hen. Whaley,</signed> Advocate.
+</closer>
+               <postscript>
+                  <p>Who will ever adhere to, or act, or ſuffer for the
+Parliament hereafter, or contribute towards the Ar<g ref="char:EOLhyphen"/>my,
+if they muſt be thus requited for all their loſſes,
+and made the verie ſcorne and deriſion both of their
+enemies and friends? O heavens bluſh at this impi<g ref="char:EOLhyphen"/>ous
+ingratitude.</p>
+               </postscript>
+            </div>
+            <div type="petition">
+               <head>To his Excellency Sir Thomas Fairfax Knight, Ge<g ref="char:EOLhyphen"/>nerall
+of the Parliaments Forces by<note n="*" place="margin">Nota.</note> Sea
+and Land. The moſt humble Petition of John Collacot the elder,
+of the Pariſh of Shebber within the County of Devon.</head>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat your Petitioner being <hi>Conſtable</hi> during
+ſome part of the times of theſe unhappy dif<g ref="char:EOLhyphen"/>ferences
+betwixt His <hi>Majeſty</hi> and the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+was in the time of his being <hi>Conſtable</hi> parti<g ref="char:EOLhyphen"/>cularly
+commanded by the Warrants annexed, to be
+aſſiſting unto <hi>Captaine Yeo:</hi> in the apprehending
+of <hi>John Perryn</hi> ſenior.</p>
+               <p>That he was commanded by the ſaid <hi>Yeo:</hi> and
+compelled by <hi>Thomas Hewes</hi> Provoſt Marſhall and
+his Troopers, to attend the ſaid <hi>Captaine Yeo:</hi> in
+the execution of the ſaid Warrants, which he durſt
+not refuſe, the Kings party being then prevalent in
+the Countrey.</p>
+               <p>That for this cauſe only the ſaid <hi>Perryn</hi> hath com<g ref="char:EOLhyphen"/>menced
+a Suit at <hi>Law</hi> againſt your Petitioner, which
+<pb n="4" facs="tcp:161597:4"/>
+will come to triall this <hi>Aſsizes</hi> to the Petitioners ut<g ref="char:EOLhyphen"/>ter
+raine, the <hi>Articles</hi> of <hi>Exeter</hi> (in which your Pe<g ref="char:EOLhyphen"/>titioner
+is comprehended) <hi>being not pleadable at Law,</hi>
+unleſſe your <hi>Excellencies</hi> accuſtomed goodneſſe be
+extended for his reliefe herein, which is according
+to your <hi>Excellencies</hi> engagement upon the rendering
+the ſaid Garriſon.</p>
+               <p>That the ſaid <hi>Captaine Yroman</hi> is comprized with<g ref="char:EOLhyphen"/>in
+the <hi>Articles of Exon,</hi> as appeareth by your <hi>Excel<g ref="char:EOLhyphen"/>lencies</hi>
+Certificate annexed, and hath made his Com<g ref="char:EOLhyphen"/>poſition
+at <hi>Goldſmiths-hall,</hi> for his ſaid <hi>Delinquency,</hi>
+within the eour moneths mentioned in the ſaid Arti<g ref="char:EOLhyphen"/>cles,
+as appeareth by Certificate readie to bee
+produced.</p>
+               <p>The Petitioner therefore beſeecheth your <hi>Excel<g ref="char:EOLhyphen"/>lency,</hi>
+that he may have the benefit of the ſaid <hi>Articles</hi>
+of <hi>Exon,</hi> he acting by and under the command of the
+ſaid <hi>Captaine Yeo:</hi> who hath compounded: And
+that your <hi>Honour</hi> would be pleaſed to<note n="a" place="margin">By what Commiſsion I pray, without the Houſes Or<g ref="char:EOLhyphen"/>ders, and con<g ref="char:EOLhyphen"/>trary to their Proteſtations, to protect Ma<g ref="char:EOLhyphen"/>lignants a<g ref="char:EOLhyphen"/>gainſt their plunderers &amp; undoers.</note> give com<g ref="char:EOLhyphen"/>mand
+for the ſtay of all proceedings at Law againſt
+the Petitioner.</p>
+               <closer>
+                  <signed>And your Petitioners ſhall ever pray, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>Queen-ſtreet, <date>March 8. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>If this Petition be true, I deſire the</hi> Iudge <hi>to take
+care that the</hi> Articles of <hi>Exon</hi> be made good to the Pe<g ref="char:EOLhyphen"/>titioner,
+<hi>and that</hi> the parties complained of do forbear
+further proceedings at Law, or<note n="b" place="margin">By what Orrinance, Law, or Com<g ref="char:EOLhyphen"/>miſsion, they being no Souldiers, but perſons impriſoned and plundered of their eſtates, for their zeal and good affections to the Parliament.</note> ſhew cauſe to the Court
+Marſhall to the contrary.</p>
+               <closer>
+                  <signed>T. Fairfax.</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <p>Whereas <hi>John Collacot</hi> the elder of the Pariſh of
+<pb n="5" facs="tcp:161597:4"/>
+                  <hi>Shebber</hi> in the County of <hi>Devon</hi> being a Conſta<g ref="char:EOLhyphen"/>ble
+in ſome part of the times of theſe unhappy dif<g ref="char:EOLhyphen"/>ferences,
+was in that time particularly commanded
+by Capt. <hi>Yeo:</hi> a Commander in the Kings Army,
+to be aſſiſting unto him in the execution of a War<g ref="char:EOLhyphen"/>rant
+from Col. Sir <hi>Iohn Berkley</hi> Governour of <hi>Exon</hi>
+for the apprehending <hi>Iohu Perryn</hi> the Elder and o<g ref="char:EOLhyphen"/>thers,
+which accordingly hee did. That the
+ſaid Captaine <hi>Yeo:</hi> was a perſon compri<g ref="char:EOLhyphen"/>zed
+within the <hi>Articles of Exon,</hi> and hath made
+his Compoſition at <hi>Goldſmiths-hall:</hi> That the
+ſaid <hi>Collacot</hi> is ſued at Law by the ſaid <hi>Perryn</hi> for
+apprehending him as aforeſaid, which is<note n="a" place="margin">If ſo, then all malignant Conſta<g ref="char:EOLhyphen"/>bl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Of<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icers, and o<g ref="char:EOLhyphen"/>thers, that murde<g ref="char:EOLhyphen"/>red raviſhed, rob<g ref="char:EOLhyphen"/>bed, impriſoned, plundered or execu<g ref="char:EOLhyphen"/>t<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d any of the Par<g ref="char:EOLhyphen"/>liaments beſt f<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iend, by command of any perſon or Of<g ref="char:EOLhyphen"/>ficer of the Kings within the Articles of Exon, Oxen, &amp;c. ſhall be totally ex<g ref="char:EOLhyphen"/>empted from all a<g ref="char:EOLhyphen"/>ctions and proſecu<g ref="char:EOLhyphen"/>tions, though not within theſe Garri<g ref="char:EOLhyphen"/>ſons, when ſeized or ſurrendered, and if ſo, all who have borne Ar<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s againſt the Parliament ſhall be freed from Sequeſtrations and Suits upon ſuch a generall extrava<g ref="char:EOLhyphen"/>gant conſtruction.</note> contra<g ref="char:EOLhyphen"/>ry
+to the <hi>twelfth Article of Exon,</hi> the ſaid <hi>Collacot</hi> ha<g ref="char:EOLhyphen"/>ving
+done nothing but by the procurement of the
+ſaid Capt. <hi>Yeo:</hi> all which particulars being pro<g ref="char:EOLhyphen"/>ved
+before me to be true: <hi>Theſe ar<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> therefore to re<g ref="char:EOLhyphen"/>quire
+the ſaid Perryn within one and twenty dayes next
+after ſight hereof, perſonally to appear before the Court
+Marſhall of his Ecellency Sir</hi> Thomas Fairfax,
+<note n="b" place="margin">Then they muſt follow him and it from one end of the Kingdome to the o<g ref="char:EOLhyphen"/>ther, and was there ever ſuch a grie<g ref="char:EOLhyphen"/>vance or vexation heard of before? or tyrannicall ar<g ref="char:EOLhyphen"/>bitrary uſurpation.</note> 
+                  <hi>whereſoever the ſame. is or ſhall bee held to ſhew
+cauſe why the ſaid</hi> Collocot <hi>ſhould not have the benefit
+of the ſaid Articles, or elſe diſcharge or releaſe the ſaid</hi>
+Collacot <hi>of his ſaid Action; and in the meane time,
+there be no further proceedings at Law, and all Attour<g ref="char:EOLhyphen"/>neys,
+Solicitours, and others whom it doth concern, are
+required to take notice hereof,</hi> the honour of his Ex<g ref="char:EOLhyphen"/>cellency
+Sir <hi>Thomas Fairfax</hi> and Army being ſo
+<note n="c" place="margin">The Lawes of the Kingdome, and Rights <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Liber<g ref="char:EOLhyphen"/>ties of the greateſt friends to, and ſuf<g ref="char:EOLhyphen"/>ferers for the Par<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iament, ought to overſway the Generall and Armies honour, and their Patronage of Malingants.</note> much concerned, for making good the ſaid <hi>Arti<g ref="char:EOLhyphen"/>cles.</hi>
+Dated at <hi>White-hall</hi> this 13. of March, 1647.</p>
+               <closer>Copia Vera. <signed>Henry Whalley</signed> Advocate.</closer>
+            </div>
+            <div type="statement">
+               <pb n="6" facs="tcp:161597:5"/>
+               <p>
+                  <hi>Captaine Yeo:</hi> is authorized to make diligent
+ſearch and apprehend <hi>Iohn Perryn</hi> the elder, <hi>Iohn</hi> and
+<hi>Richard Perryn</hi> his fonnes, <hi>Mathuſala Bligh, Philip
+Kingford, Robert Martin</hi> and <hi>Iames Slowman</hi> of the
+pariſh of <hi>Holſworthy, Iohn Coales</hi> and <hi>Iames Hobs</hi> of
+<hi>Milton Damrell, Iohn Hearding</hi> of <hi>Shebber, Thomas
+Wellington</hi> of great <hi>Torrington</hi> and <hi>John Markeham</hi>
+of <hi>Littleham,</hi> and to bring them into ſafe cuſtody,
+or cauſe them to be brought to the <hi>Provoſt Marſhall</hi>
+of the City of <hi>Exon,</hi> there <hi>to remain in ſafe cuſtody
+untill they and every of them ſhall anſwer all ſuch mat<g ref="char:EOLhyphen"/>ters
+as ſhall be o<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jected againſt them and every of them;</hi>
+and <hi>Thomas Hewes</hi> the <hi>Marſhall</hi> of the <hi>North Diviſion</hi>
+of the ſaid County of <hi>Devon,</hi> and the Conſtables
+of <hi>Shebber</hi> with all other his Majeſties Officers and
+loving Subjects within the ſaid County, are
+ſtraightly charged and commanded to be aiding
+and aſſiſting unto the ſaid Captain <hi>Yeo:</hi> in the
+due execution hereof, wherein they and every of
+them are not to faile, as they will anſwer the con<g ref="char:EOLhyphen"/>trary
+at their utmoſt perills.</p>
+               <closer>
+                  <dateline>Given under my hand and Seale at <hi>Betford-houſe</hi>
+in Exon <date>the 6. of March, 1643.</date>
+                  </dateline>
+                  <signed>Iohn Berkley.</signed>
+               </closer>
+               <postscript>
+                  <p>Vera Copia</p>
+                  <closer>
+                     <signed>R. H.</signed>
+                  </closer>
+               </postscript>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
